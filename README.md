@@ -15,9 +15,7 @@ To create the solid model from given drawing and section the solid model
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
 
-<img width="967" height="648" alt="image" src="https://github.com/user-attachments/assets/37cf8929-402a-4c09-a461-04ac92bd3899" />
-
-
+<img width="521" height="541" alt="image" src="https://github.com/user-attachments/assets/c65fe297-7b40-4158-8006-4d5ed15970bc" />
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
 
 ![image](https://user-images.githubusercontent.com/113594316/198825282-0d3de4b8-b6d9-446a-ae2a-461955057399.png)
